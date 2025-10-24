@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Jimenita.pe",
   description: "Bienvenida a mi sitio",
+  icons: {
+    icon: "/favicon.png",
+  },
 };
 
 export default function RootLayout({
