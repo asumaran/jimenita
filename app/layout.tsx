@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Jimenita.pe",
-  description: "Bienvenida a mi sitio",
+  title: "Cumpleaños de Jimenita 🎂",
+  description: "¡Estás invitado al cumpleaños de Jimenita! Celebremos juntos en el Parque Zonal Sinchi Roca",
   icons: {
     icon: "/favicon.png",
   },
@@ -26,7 +26,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en">
+    <html lang="es">
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
