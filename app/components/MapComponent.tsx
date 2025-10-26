@@ -31,7 +31,7 @@ export default function MapComponent() {
         <Map
           defaultCenter={MAP_CENTER}
           defaultZoom={16}
-          mapId="DEMO_MAP_ID"
+          mapId="3f14dd2beeb7f555233b9f01"
           mapTypeId="hybrid"
           disableDefaultUI={false}
           zoomControl={true}
