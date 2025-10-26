@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Cumpleaños de Jimenita 🎂",
-  description: "¡Estás invitado al cumpleaños de Jimenita! Celebremos juntos en el Parque Zonal Sinchi Roca",
+  description: "¡Estás invitado al cumpleaños de Jimenita! ¡Celebremos juntos!",
   icons: {
     icon: "/favicon.png",
   },
